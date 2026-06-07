@@ -19,3 +19,15 @@ noun2 = "cookies";
 let secondStory = `Once upon a time, there was a(n) ${adjective} ${noun} who loved to eat ${noun2}. The ${noun} lived in a ${place} and had ${adjective2} nostrils that blew fire when it was ${verb}.`;
 
 console.log("Second story: " + secondStory);
+
+let greeting = "hello";
+console.log(greeting[1]);
+console.log(greeting[1] + greeting[3]);
+
+let poem = "roses are red,\nviolets are blue";
+console.log(poem);
+
+let message = `she said "Hello!"`;
+console.log(message);
+
+// const username = prompt("what is your name?");
