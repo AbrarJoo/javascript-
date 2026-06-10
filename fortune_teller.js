@@ -34,3 +34,5 @@ switch (selectedFortune) {
     console.log("ERROR, try again later");
     break;
 }
+
+console.log("game over");
