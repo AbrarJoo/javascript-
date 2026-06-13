@@ -1,1 +1,1 @@
-js
+simple JavaScript Practise Programs
